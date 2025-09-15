@@ -1,6 +1,6 @@
 import React from 'react'
 
-const nav = () => {
+const Nav = () => {
   return (
     <div>
       <h1>fbudijlkokkdd
@@ -10,5 +10,5 @@ const nav = () => {
   )
 }
 
-export default nav
+export default Nav
 
